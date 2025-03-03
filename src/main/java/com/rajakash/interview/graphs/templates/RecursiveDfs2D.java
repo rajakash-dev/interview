@@ -1,5 +1,8 @@
 package com.rajakash.interview.graphs.templates;
 
+/**
+ * In this implementation a 2D arrray has 0 ot 1
+ */
 public class RecursiveDfs2D {
     public static int numIslands(char[][] grid) {
         // find row and col length

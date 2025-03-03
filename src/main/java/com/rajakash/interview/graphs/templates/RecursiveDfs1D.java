@@ -1,5 +1,8 @@
 package com.rajakash.interview.graphs.templates;
 
+/**
+ * In thi implementation only nodes are given i.e. N nodes and their connection
+ */
 public class RecursiveDfs1D {
     //caller function
     public int findCircleNum(int[][] isConnected) {
